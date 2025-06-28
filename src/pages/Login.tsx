@@ -29,9 +29,8 @@ const Login = () => {
     <div className="min-h-screen vineyard-pattern flex">
       <div className="flex-1 hidden lg:block relative">
         <div className="absolute inset-0 bg-gradient-to-br from-amber-200 via-amber-300 to-amber-400">
-          <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath d="M30 0c16.569 0 30 13.431 30 30 0 16.569-13.431 30-30 30C13.431 60 0 46.569 0 30 0 13.431 13.431 0 30 0z" fill="%23ffffff" fill-opacity="0.1"/%3E%3C/svg%3E')] opacity-20"></div>
+          <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Cpath d=\"M30 0c16.569 0 30 13.431 30 30 0 16.569-13.431 30-30 30C13.431 60 0 46.569 0 30 0 13.431 13.431 0 30 0z\" fill=\"%23ffffff\" fill-opacity=\"0.1\"/%3E%3C/svg%3E')] opacity-20"></div>
           
-          {/* Vineyard illustration */}
           <div className="absolute bottom-0 left-0 right-0 h-2/3">
             <div className="h-full flex items-end justify-center">
               <div className="space-y-4 text-center">
